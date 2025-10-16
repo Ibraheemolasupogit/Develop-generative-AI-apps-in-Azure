@@ -1,14 +1,24 @@
-# Develop Generative AI Solutions in Azure
+# 🤖 Develop Generative AI Apps in Azure  
 
-The exercises in this repo are designed to provide you with a hands-on learning experience in which you'll explore common tasks that developers perform when building generative AI solutions on Microsoft Azure.
+This repository contains **hands-on lab exercises and implementations** from the **Generative AI learning path**.  
+It demonstrates how to design, build, evaluate, and deploy **Generative AI applications** using **Azure AI Foundry**, **Azure AI Services**, and **Azure OpenAI** — integrating model catalog, prompt flow, and responsible AI principles for real-world applications.  
 
-> **Note**: To complete the exercises, you'll need an Azure subscription in which you have sufficient permissions and quota to provision the necessary Azure resources and generative AI models. If you don't already have one, you can sign up for an [Azure account](https://azure.microsoft.com/free). There's a free trial option for new users that includes credits for the first 30 days.
+📂 **Explore the Project:**  
+- View implementation notebooks and scripts in the **[Projects](./Projects)** folder  
+- See lab results and setup visuals in the **[Lab Screenshots](./lab_screenshot)** folder  
+- Try an extended notebook example on **[Hugging Face Model (Google Colab)](https://colab.research.google.com/)**  
 
-View the exercises in the [GitHub Pages site for this repo](https://go.microsoft.com/fwlink/?linkid=2310724).
+---
 
+## 🧩 Overview  
+Hands-on experience developing end-to-end generative AI solutions using:  
 
-> **Note**: While you can complete these exercises on their own, they're designed to complement modules on [Microsoft Learn](https://aka.ms/mslearn-generative-ai); in which you'll find a deeper dive into some of the underlying concepts on which these exercises are based.
+- **Azure AI Foundry** for orchestrating model deployment and management  
+- **Azure AI Services** for multimodal tasks (Language, Vision, Speech)  
+- **Azure OpenAI Service** for large language model operations  
+- **Prompt Flow** for designing, testing, and evaluating LLM apps  
+- **Model Catalog** for exploring and fine-tuning prebuilt LLMs  
+- **Responsible AI Tools** for bias detection and content moderation  
+- **Azure AI Foundry SDK** for custom development and automation  
 
-## Reporting issues
-
-If you encounter any problems in the exercises, please report them as **issues** in this repo.
+---
