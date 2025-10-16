@@ -1,14 +1,77 @@
-# Develop Generative AI Solutions in Azure
+# 🤖 Develop Generative AI Apps in Azure  
 
-The exercises in this repo are designed to provide you with a hands-on learning experience in which you'll explore common tasks that developers perform when building generative AI solutions on Microsoft Azure.
+This repository contains **hands-on lab exercises and implementations** from the **Generative AI learning path**.  
+It demonstrates how to design, build, evaluate, and deploy **Generative AI applications** using **Azure AI Foundry**, **Azure AI Services**, and **Azure OpenAI** — integrating model catalog, prompt flow, and responsible AI principles for real-world applications.  
 
-> **Note**: To complete the exercises, you'll need an Azure subscription in which you have sufficient permissions and quota to provision the necessary Azure resources and generative AI models. If you don't already have one, you can sign up for an [Azure account](https://azure.microsoft.com/free). There's a free trial option for new users that includes credits for the first 30 days.
+📂 **Explore the Project:**  
+- View implementation notebooks and scripts in the **[Projects](./Projects)** folder  
+- See lab results and setup visuals in the **[Lab Screenshots](./lab_screenshot)** folder  
+- Extended notebook example on Google Colab for additional model experimentation:
+-   **[Hugging Face Model (Google Colab)](https://colab.research.google.com/drive/1AjKbkgT78Sgm2uCmp7lpuixeVHGQSUsj?usp=sharing)** 
+-   **[Building a Scalable and Modular RAG System with RAG Engine in Vertex AI (Google Colab)](https://colab.research.google.com/drive/1wwZwtONTXonSEeLqmp_KDfjrqWE_mHrw?usp=sharing)**  
+---
+> ⚙️ **Note:** A temporary Azure API key (APU secret) was used for lab configuration and testing purposes only.  
+> The secret poses **no security risk** — it does **not grant access** to any active services, credentials, or sensitive data.  
+> It was included intentionally to allow smooth automation during experimentation, and all associated environments are **sandboxed and deactivated**. 
 
-View the exercises in the [GitHub Pages site for this repo](https://go.microsoft.com/fwlink/?linkid=2310724).
+## 🧩 Overview  
+
+Hands-on experience building, orchestrating, and evaluating **Generative AI applications** across multiple ecosystems — combining **Azure AI Foundry**, **Databricks**, and leading open frameworks such as **LangChain**, **Ollama**, **Gemini**, **OpenAI**, and **Hugging Face**.  
+
+This repository demonstrates practical workflows that integrate **LLM APIs, multimodal interfaces, and orchestration pipelines** to develop production-ready intelligent applications.  
+
+### Key Technologies and Frameworks  
+
+- **Azure AI Foundry & Model Catalog** – For selecting, deploying, and managing foundation models  
+- **Azure Databricks** – For data preparation, orchestration, and scalable deployment   
+- **Ollama API** – For local model hosting and inference experimentation  
+- **Gemini API** – For multimodal reasoning and conversational AI  
+- **OpenAI API** – For GPT-based completion, embedding, and chat functionalities  
+- **Hugging Face** – For model testing, deployment, and fine-tuning via Transformers and Spaces  
+- **DeepSeek** – For efficient open-source model exploration and benchmarking  
+- **Gradio** – For rapid prototyping of interactive GenAI applications  
+- **Azure Responsible AI Tools** – For interpretability, bias detection, and content filtering  
+
+---
+
+## 🧠 Example Projects  
+
+Some of the applied projects and experiments included in this repository:  
+
+- 🌍 **Travel Application** – integrates location data, recommendations, and AI-powered travel insights  
+- 🕸️ **Web Scraping & Text Summarization App** – extracts and condenses online content using NLP models  
+- 🍽️ **Meal / Recipe Suggestion Application** – recommends recipes or meals based on user inputs and preferences  
+- 🎨 **Text-to-Image Generation** – converts natural language prompts into visuals using diffusion models  
+- 💬 **Text Classification & Sentiment Analysis Models** – analyzes tone, polarity, and context from user-generated text  
 
 
-> **Note**: While you can complete these exercises on their own, they're designed to complement modules on [Microsoft Learn](https://aka.ms/mslearn-generative-ai); in which you'll find a deeper dive into some of the underlying concepts on which these exercises are based.
+## 🔧 Project Breakdown  
 
-## Reporting issues
+### **Model Exploration & API Integration**  
+- `DeepSeek API.ipynb`  
+- `openai - getting started.ipynb`  
+- `gemini - getting started.ipynb`  
 
-If you encounter any problems in the exercises, please report them as **issues** in this repo.
+---
+
+### **Multimodal Application Development**  
+- `gemini - meal suggest app.ipynb`  
+- `ollama travel app.ipynb`  
+- `gradio - controls.ipynb`  
+
+---
+
+### **Document and Knowledge Processing Pipelines**  
+- `langchain - Document Loader.ipynb`  
+- `langchain - Document Transformer.ipynb`  
+- `ollama API.ipynb`  
+
+---
+
+### **Databricks Integration for LLMOps**  
+- **MLflow and Unity Catalog** for experiment tracking and model management  
+- **Spark + Delta Tables** for retrieval and fine-tuning pipelines  
+- **LLM workflows and RAG pipelines** deployed on Databricks clusters  
+- **Azure AI Foundry endpoints** integrated for unified orchestration  
+
+---
