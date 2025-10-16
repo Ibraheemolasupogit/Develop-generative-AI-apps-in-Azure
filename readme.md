@@ -31,3 +31,35 @@ This repository demonstrates practical workflows that integrate **LLM APIs, mult
 - **Azure Responsible AI Tools** – For interpretability, bias detection, and content filtering  
 
 ---
+
+
+## 🔧 Project Breakdown  
+
+### **Model Exploration & API Integration**  
+- `DeepSeek API.ipynb`  
+- `openai - getting started.ipynb`  
+- `gemini - getting started.ipynb`  
+
+---
+
+### **Multimodal Application Development**  
+- `gemini - meal suggest app.ipynb`  
+- `ollama travel app.ipynb`  
+- `gradio - controls.ipynb`  
+
+---
+
+### **Document and Knowledge Processing Pipelines**  
+- `langchain - Document Loader.ipynb`  
+- `langchain - Document Transformer.ipynb`  
+- `ollama API.ipynb`  
+
+---
+
+### **Databricks Integration for LLMOps**  
+- **MLflow and Unity Catalog** for experiment tracking and model management  
+- **Spark + Delta Tables** for retrieval and fine-tuning pipelines  
+- **LLM workflows and RAG pipelines** deployed on Databricks clusters  
+- **Azure AI Foundry endpoints** integrated for unified orchestration  
+
+---
