@@ -7,8 +7,10 @@ It demonstrates how to design, build, evaluate, and deploy **Generative AI appli
 - View implementation notebooks and scripts in the **[Projects](./Projects)** folder  
 - See lab results and setup visuals in the **[Lab Screenshots](./lab_screenshot)** folder  
 - Try an extended notebook example on **[Hugging Face Model (Google Colab)](https://colab.research.google.com/)**  
-
 ---
+> ⚙️ **Note:** A temporary Azure API key (APU secret) was used for lab configuration and testing purposes only.  
+> The secret poses **no security risk** — it does **not grant access** to any active services, credentials, or sensitive data.  
+> It was included intentionally to allow smooth automation during experimentation, and all associated environments are **sandboxed and deactivated**. 
 
 ## 🧩 Overview  
 
