@@ -11,19 +11,6 @@ It demonstrates how to design, build, evaluate, and deploy **Generative AI appli
 ---
 
 ## 🧩 Overview  
-Hands-on experience developing end-to-end generative AI solutions using:  
-
-- **Azure AI Foundry** for orchestrating model deployment and management  
-- **Azure AI Services** for multimodal tasks (Language, Vision, Speech)  
-- **Azure OpenAI Service** for large language model operations  
-- **Prompt Flow** for designing, testing, and evaluating LLM apps  
-- **Model Catalog** for exploring and fine-tuning prebuilt LLMs  
-- **Responsible AI Tools** for bias detection and content moderation  
-- **Azure AI Foundry SDK** for custom development and automation  
-
----
-
-## 🧩 Overview  
 
 Hands-on experience building, orchestrating, and evaluating **Generative AI applications** across multiple ecosystems — combining **Azure AI Foundry**, **Databricks**, and leading open frameworks such as **LangChain**, **Ollama**, **Gemini**, **OpenAI**, and **Hugging Face**.  
 
@@ -31,8 +18,8 @@ This repository demonstrates practical workflows that integrate **LLM APIs, mult
 
 ### Key Technologies and Frameworks  
 
-- **Azure AI Foundry & Databricks** – For data preparation, model orchestration, and scalable deployment  
-- **LangChain** – For chaining prompts, tools, and agents in intelligent workflows  
+- **Azure AI Foundry & Model Catalog** – For selecting, deploying, and managing foundation models  
+- **Azure Databricks** – For data preparation, orchestration, and scalable deployment   
 - **Ollama API** – For local model hosting and inference experimentation  
 - **Gemini API** – For multimodal reasoning and conversational AI  
 - **OpenAI API** – For GPT-based completion, embedding, and chat functionalities  
