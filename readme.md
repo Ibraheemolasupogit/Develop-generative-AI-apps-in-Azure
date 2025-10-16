@@ -34,6 +34,16 @@ This repository demonstrates practical workflows that integrate **LLM APIs, mult
 
 ---
 
+## 🧠 Example Projects  
+
+Some of the applied projects and experiments included in this repository:  
+
+- 🌍 **Travel Application** – integrates location data, recommendations, and AI-powered travel insights  
+- 🕸️ **Web Scraping & Text Summarization App** – extracts and condenses online content using NLP models  
+- 🍽️ **Meal / Recipe Suggestion Application** – recommends recipes or meals based on user inputs and preferences  
+- 🎨 **Text-to-Image Generation** – converts natural language prompts into visuals using diffusion models  
+- 💬 **Text Classification & Sentiment Analysis Models** – analyzes tone, polarity, and context from user-generated text  
+
 
 ## 🔧 Project Breakdown  
 
