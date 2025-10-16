@@ -6,7 +6,7 @@ It demonstrates how to design, build, evaluate, and deploy **Generative AI appli
 📂 **Explore the Project:**  
 - View implementation notebooks and scripts in the **[Projects](./Projects)** folder  
 - See lab results and setup visuals in the **[Lab Screenshots](./lab_screenshot)** folder  
-- Try an extended notebook example on **[Hugging Face Model (Google Colab)](https://colab.research.google.com/drive/1AjKbkgT78Sgm2uCmp7lpuixeVHGQSUsj?usp=sharing)**  
+- Try an extended notebook example on **[Building a Scalable and Modular RAG System with RAG Engine in Vertex AI (Google Colab)](https://colab.research.google.com/drive/1wwZwtONTXonSEeLqmp_KDfjrqWE_mHrw?usp=sharing)**  
 ---
 > ⚙️ **Note:** A temporary Azure API key (APU secret) was used for lab configuration and testing purposes only.  
 > The secret poses **no security risk** — it does **not grant access** to any active services, credentials, or sensitive data.  
